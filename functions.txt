@@ -1,0 +1,4 @@
+alert(1)
+confirm(1)
+prompt(1)
+window.print()

@@ -1,0 +1,7 @@
+onerror
+onload
+onmouseover
+onclick
+onfocus
+onmouseenter
+onmouseleave
